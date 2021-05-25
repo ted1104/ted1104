@@ -42,5 +42,6 @@ I'm a software engineer. I love building full-stack web applications, mobile app
 ## My Github Status 🦸
 
 ![](https://github-readme-stats.vercel.app/api?username=ted1104&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ted1104&layout=compact&theme=onedark)]
 
 <!-- <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=ted1104'></p> -->
