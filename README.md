@@ -1,6 +1,6 @@
 # Hey, I am Teddy Walter 👋✌️
 
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3A9CDF&size=25&lines=I'm+a+software+developer;I'm+working+with+Server)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3A9CDF&size=25&lines=I'm+a+software+developer;I'm+working+with+Linux+Servers)
 
 I'm a software engineer. I love building full-stack web applications, mobile apps and playing with servers administrations. I have proved my superiority in web technologies and system linux administration. I love to share my resources and expertise with the dev community.
 
