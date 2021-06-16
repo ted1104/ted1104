@@ -35,6 +35,7 @@ I'm a software engineer. I love building full-stack web applications, mobile app
 ![](https://img.shields.io/badge/-REACT%20JS-red?style=for-the-badge&logo=React&logoColor=white)
 ![](https://img.shields.io/badge/-REACT%20NATIVE-red?style=for-the-badge&logo=React&logoColor=white)
 ![](https://img.shields.io/badge/-VUE%20JS-ff69b4?style=for-the-badge&logo=React&logoColor=white)
+![](https://img.shields.io/badge/-CODEIGNITER%204-yellow?style=for-the-badge&logo=CodeIgniter&logoColor=white)
 
 ## My Github Status 🦸
 
