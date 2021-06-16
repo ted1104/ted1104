@@ -20,7 +20,10 @@ I'm a software engineer. I love building full-stack web applications, mobile app
 
 ## My skills 🚀
 
-![](https://img.shields.io/badge/-HTML5-black?style=plastic&logo=HTML5)
+![](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5&logoColor=white)
+![](https://img.shields.io/badge/-CSS3-red?style=for-the-badge&logo=CSS3&logoColor=white)
+![](https://img.shields.io/badge/-JAVASCRIPT-blue?style=for-the-badge&logo=Javascript&logoColor=white)
+![](https://img.shields.io/badge/-PHP-green?style=for-the-badge&logo=php&logoColor=white)
 
 ## My Github Status 🦸
 
