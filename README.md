@@ -28,9 +28,18 @@ I'm a software engineer. I love building full-stack web applications, mobile app
 ![](https://img.shields.io/badge/-PHP-green?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/-PYTHON-blueviolet?style=for-the-badge&logo=Python&logoColor=white)
 
+### Web Technologies and Frameworks
+
+![](https://img.shields.io/badge/-DJANGO-success?style=for-the-badge&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/-DJANGO%20REST-brightgreen?style=for-the-badge&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/-REACT%20JS-red?style=for-the-badge&logo=React&logoColor=white)
+![](https://img.shields.io/badge/-REACT%20NATIVE-red?style=for-the-badge&logo=React&logoColor=white)
+![](https://img.shields.io/badge/-VUE%20JS-ff69b4?style=for-the-badge&logo=React&logoColor=white)
+
 ## My Github Status 🦸
 
 ![](https://github-readme-stats.vercel.app/api?username=ted1104&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ted1104&layout=compact&theme=onedark)]
+!
 
 <!-- <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=ted1104'></p> -->
