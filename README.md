@@ -37,6 +37,21 @@ I'm a software engineer. I love building full-stack web applications, mobile app
 ![](https://img.shields.io/badge/-VUE%20JS-ff69b4?style=for-the-badge&logo=React&logoColor=white)
 ![](https://img.shields.io/badge/-CODEIGNITER%204-yellow?style=for-the-badge&logo=CodeIgniter&logoColor=white)
 
+### Payement Gateway
+
+![](https://img.shields.io/badge/-REVOLUT-primary?style=for-the-badge&logo=Revolut&logoColor=white)
+![](https://img.shields.io/badge/-SQUARE-red?style=for-the-badge&logo=Square&logoColor=white)
+![](https://img.shields.io/badge/-STRIPE-blue?style=for-the-badge&logo=Stripe&logoColor=white)
+![](https://img.shields.io/badge/-FIRE-yellow?style=for-the-badge&logo=Fire&logoColor=white)
+
+### Web Servers Skills
+
+![](https://img.shields.io/badge/-NGINX-red?style=for-the-badge&logo=Nginx&logoColor=white)
+![](https://img.shields.io/badge/-APACHE-blue?style=for-the-badge&logo=Apache&logoColor=white)
+![](https://img.shields.io/badge/-SSL%20CONFIG-green?style=for-the-badge&logo=Ssl&logoColor=white)
+![](https://img.shields.io/badge/-GUNICORN-yellow?style=for-the-badge&logo=gunicorn&logoColor=white)
+![](https://img.shields.io/badge/-PM2-red?style=for-the-badge&logo=pm2&logoColor=white)
+
 ## My Github Status 🦸
 
 ![](https://github-readme-stats.vercel.app/api?username=ted1104&show_icons=true&theme=radical)
