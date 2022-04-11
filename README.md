@@ -9,7 +9,7 @@ I'm a software engineer. I love building full-stack web applications, mobile app
 - 👯 I’m looking to collaborate on Full stack web development
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about Web Technologies, mobile and Servers
-- 📫 How to reach me: [teddywalter2016@gmail.com](mailto:teddywalter2016@gmail.com) & [Twitter @Teddywalter15](https://twitter.com/Teddywalter15)
+- 📫 How to reach me: [teddywalter2016@gmail.com](mailto:teddywalter2016@gmail.com) & [Twitter @Teddywalter17](https://twitter.com/Teddywalter17)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Big fan of swimming pool
 
@@ -30,11 +30,13 @@ I'm a software engineer. I love building full-stack web applications, mobile app
 
 ### Web Technologies and Frameworks
 
-![](https://img.shields.io/badge/-DJANGO-success?style=for-the-badge&logo=Python&logoColor=white)
-![](https://img.shields.io/badge/-DJANGO%20REST-brightgreen?style=for-the-badge&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/-ExpressJs-ff69b4?style=for-the-badge&logo=Node.js&logoColor=white)
+![](https://img.shields.io/badge/-ExpressJs-ff69b4?style=for-the-badge&logo=Express&logoColor=white)
 ![](https://img.shields.io/badge/-REACT%20JS-red?style=for-the-badge&logo=React&logoColor=white)
 ![](https://img.shields.io/badge/-REACT%20NATIVE-red?style=for-the-badge&logo=React&logoColor=white)
 ![](https://img.shields.io/badge/-VUE%20JS-ff69b4?style=for-the-badge&logo=React&logoColor=white)
+![](https://img.shields.io/badge/-DJANGO-success?style=for-the-badge&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/-DJANGO%20REST-brightgreen?style=for-the-badge&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/-CODEIGNITER%204-yellow?style=for-the-badge&logo=CodeIgniter&logoColor=white)
 
 ### Payement Gateway
