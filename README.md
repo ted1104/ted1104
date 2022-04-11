@@ -30,7 +30,7 @@ I'm a software engineer. I love building full-stack web applications, mobile app
 
 ### Web Technologies and Frameworks
 
-![](https://img.shields.io/badge/-ExpressJs-ff69b4?style=for-the-badge&logo=Node.js&logoColor=white)
+![](https://img.shields.io/badge/-NodeJs-ff69b4?style=for-the-badge&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/-ExpressJs-ff69b4?style=for-the-badge&logo=Express&logoColor=white)
 ![](https://img.shields.io/badge/-REACT%20JS-red?style=for-the-badge&logo=React&logoColor=white)
 ![](https://img.shields.io/badge/-REACT%20NATIVE-red?style=for-the-badge&logo=React&logoColor=white)
